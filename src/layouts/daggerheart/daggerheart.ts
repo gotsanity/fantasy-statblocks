@@ -1,7 +1,7 @@
 import { nanoid } from "src/util/util";
 import type { DefaultLayout, Layout, StatblockItem } from "../layout.types";
 
-export const LayoutDaggerheart: DefaultLayout = {
+export const LayoutDaggerheartAdversary: DefaultLayout = {
     blocks: [
         {
             "type": "group",
@@ -176,5 +176,12 @@ export const LayoutDaggerheart: DefaultLayout = {
     ],
     id: "daggerheart-adversaries",
     name: "Daggerheart Adversaries",
-    edited: false /** This is Optional, but we suggest leaving it. */
+    edited: false
+};
+
+export const LayoutDaggerheartCard: DefaultLayout = {
+    blocks: [],
+    id: "daggerheart-card",
+    name: "Daggerheart Basic Card",
+    edited: false
 };
