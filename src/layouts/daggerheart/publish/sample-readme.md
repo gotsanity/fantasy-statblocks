@@ -1,11 +1,11 @@
 ---
-aliases: [Sample Basic Layout Name]
-description: "This page provides a basic code block for the Basic short name Layout included within Fantasy Statblocks."
+aliases: [Basic Daggerheart Adversaries Layout]
+description: "This page provides a basic code block for the Basic Daggerheart Adversary Layout included within Fantasy Statblocks."
 image: 
-order: 
-permalink: statblock/layouts/integrated/ShortName
+order: 5
+permalink: statblock/layouts/integrated/daggerheart
 publish: true
-tags: [Statblocks/Layout/ShortName]
+tags: [Statblocks/Layout/Daggerheart-Adversary]
 ---
 
 [[Fantasy Statblocks|Fantasy Statblocks]] > [[Integrated Layouts|Integrated Statblock Layouts]] > *You Are Here*
